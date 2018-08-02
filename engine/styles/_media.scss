@@ -1,4 +1,7 @@
 @media (max-width: 768px) {
+	main {
+		background-position: 100% 50%;
+	}
 	#section {
 		$font-size: 5rem;
 		&-main {
