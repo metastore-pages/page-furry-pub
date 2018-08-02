@@ -1,0 +1,13 @@
+@media (max-width: 768px) {
+	#section {
+		$font-size: 5rem;
+		&-main {
+			.title {
+				font-size: $font-size;
+			}
+			.subtitle {
+				font-size: $font-size - 4;
+			}
+		}
+	}
+}
